@@ -141,7 +141,7 @@ Birdor 仍在 early 阶段，非常欢迎你的想法与贡献。
 * 反馈工具实际使用痛点
 
 提交 issue /讨论：
-[https://github.com/spcent/birdor/issues](https://github.com/spcent/birdor/issues)
+[https://github.com/birdordev/birdor/issues](https://github.com/birdordev/birdor/issues)
 
 ---
 
