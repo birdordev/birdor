@@ -140,7 +140,7 @@ Ways to help:
 * Share ideas on APIs or developer workflows
 
 Open an issue or discussion at:
-[https://github.com/spcent/birdor/issues](https://github.com/spcent/birdor/issues)
+[https://github.com/birdordev/birdor/issues](https://github.com/birdordev/birdor/issues)
 
 ---
 
